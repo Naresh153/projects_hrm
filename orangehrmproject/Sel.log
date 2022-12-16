@@ -1,0 +1,40 @@
+INFO	2022-08-07 18:46:27,448	0	commonfunction.Initialization_class	[main]	chrome gets launched
+INFO	2022-08-07 18:46:36,158	8710	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:46:38,347	10899	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:46:39,362	11914	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:46:41,366	13918	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:46:42,172	14724	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:46:44,052	16604	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:46:46,232	18784	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:46:55,007	27559	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:46:56,652	29204	testng_packages.Testcase_Datadriven	[main]	browser gets closed
+INFO	2022-08-07 18:49:02,484	0	commonfunction.Initialization_class	[main]	chrome gets launched
+INFO	2022-08-07 18:49:11,303	8819	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:49:13,895	11411	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:49:14,833	12349	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:49:16,745	14261	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:49:17,608	15124	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:49:19,526	17042	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:49:20,613	18129	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:49:31,508	29024	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:49:33,285	30801	testng_packages.Testcase_Datadriven	[main]	browser gets closed
+INFO	2022-08-07 18:55:26,407	0	commonfunction.Initialization_class	[main]	chrome gets launched
+INFO	2022-08-07 18:55:36,438	10031	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:55:38,902	12495	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:55:40,192	13785	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:55:42,559	16152	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:55:44,620	18213	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:55:47,701	21294	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:55:49,773	23366	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 18:55:57,485	31078	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 18:55:58,629	32222	testng_packages.Testcase_Datadriven	[main]	browser gets closed
+INFO	2022-08-07 19:04:00,843	0	commonfunction.Initialization_class	[main]	chrome gets launched
+INFO	2022-08-07 19:04:10,782	9939	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 19:04:12,996	12153	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 19:04:13,758	12915	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 19:04:15,609	14766	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 19:04:16,679	15836	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 19:04:18,529	17686	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 19:04:20,335	19492	testng_packages.Testcase_Datadriven	[main]	orange hrm gets launched
+INFO	2022-08-07 19:04:28,348	27505	testng_packages.Testcase_Datadriven	[main]	login done
+INFO	2022-08-07 19:04:29,331	28488	testng_packages.Testcase_Datadriven	[main]	browser gets closed

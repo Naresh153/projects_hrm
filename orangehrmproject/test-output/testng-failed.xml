@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listener_pakage.Listener_class"/>
+  </listeners>
+  <test name="test2(failed)">
+    <classes>
+      <class name="testng_packages.Testcases_login_dashboard">
+        <methods>
+          <include name="pendingleave"/>
+        </methods>
+      </class> <!-- testng_packages.Testcases_login_dashboard -->
+    </classes>
+  </test> <!-- test2(failed) -->
+  <test name="test3(failed)">
+    <classes>
+      <class name="testng_packages.Testcases_AdminUsers">
+        <methods>
+          <include name="userdetails"/>
+        </methods>
+      </class> <!-- testng_packages.Testcases_AdminUsers -->
+    </classes>
+  </test> <!-- test3(failed) -->
+  <test name="test4(failed)">
+    <classes>
+      <class name="testng_packages.Testcase_myinfo">
+        <methods>
+          <include name="imageupload"/>
+        </methods>
+      </class> <!-- testng_packages.Testcase_myinfo -->
+    </classes>
+  </test> <!-- test4(failed) -->
+</suite> <!-- Failed suite [Suite] -->
